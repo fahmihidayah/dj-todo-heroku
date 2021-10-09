@@ -1,0 +1,1 @@
+Sample django todo app
